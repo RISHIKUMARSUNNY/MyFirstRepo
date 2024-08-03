@@ -1,4 +1,5 @@
 # MyFirstRepo
+
 This is my first Git Repository
 <br>
-Author-Rishi Kumar Sunny
+Author-Rishi Kumar
